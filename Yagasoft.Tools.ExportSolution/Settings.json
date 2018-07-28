@@ -1,0 +1,14 @@
+{
+	"connectionString": "AuthType=AD; Url=http://192.168.137.229/GenericSolution; Domain=YAGASOFT1; Username=administrator; Password=a",
+	"defaultOutputPath": "C:\\Backups\\Solutions\\Test2",
+	"SolutionConfigs": [
+		{
+			"solutionName": "CrmLogger",
+			"outputPath": "C:\\Backups\\Solutions\\Test"
+		},
+		{
+			"solutionName": "CrmLogger",
+			"outputFilename": "TestSolution.zip"
+		}
+	]
+}
