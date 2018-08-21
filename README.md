@@ -1,4 +1,7 @@
 # DynamicsCrm-ExportSolution
+
+[![Join the chat at https://gitter.im/yagasoft/DynamicsCrm-ExportSolution](https://badges.gitter.im/yagasoft/DynamicsCrm-ExportSolution.svg)](https://gitter.im/yagasoft/DynamicsCrm-ExportSolution?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Version: 1.1
 ---
 
